@@ -84,3 +84,17 @@ p {
     font-size: 30px;
 }
 
+#Button {
+    display: inline-block;
+    border: 2px solid white;
+    padding: 10px 30px;
+    margin-top: 25px;
+    background-color: #4b5163;
+    color: white;
+    font-size: 20px;
+    opacity: 0.8;
+    border-radius: 10px;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+  }
